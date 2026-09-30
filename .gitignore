@@ -1,0 +1,8 @@
+/server/
+/tools/
+/work/
+*.zip
+*.log
+
+# Third-party plugin (Recycle Manager by WhiteThunder, from uMod) - not redistributed
+/plugins/src/RecycleManager.cs
